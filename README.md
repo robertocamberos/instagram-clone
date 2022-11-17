@@ -1,4 +1,4 @@
-# Amazon Clone
+# Instagram Clone
 
 A fully-functional Instagram website that works and looks like Instagram. Some features of the application include being able to create posts, see posts other users have made, be able to like posts, be able to create comments, and be able to delete your own post.
 
